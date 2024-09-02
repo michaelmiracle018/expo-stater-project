@@ -82,7 +82,7 @@ export default function Screen() {
           <Progress value={progress} className='h-2' indicatorClassName='bg-sky-600' />
           <View />
           <Button
-            variant='outline'
+            variant='default'
             className='shadow shadow-foreground/5'
             onPress={updateProgressValue}
           >

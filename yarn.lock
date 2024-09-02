@@ -2981,7 +2981,6 @@ __metadata:
     tailwindcss: 3.3.5
     tailwindcss-animate: ^1.0.7
     typescript: ^5.3.3
-    zustand: ^4.4.7
   languageName: unknown
   linkType: soft
 
